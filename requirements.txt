@@ -1,2 +1,6 @@
 urllib3
 opencv-python
+numpy
+Pillow
+streamlit
+streamlit-webrtc
