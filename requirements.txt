@@ -1,3 +1,2 @@
 urllib3
 opencv-python
-streamlit
